@@ -7,7 +7,7 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.handler.codec.LengthFieldBasedFrameDecoder;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName RpcServerInitializer.java
  * @Description TODO

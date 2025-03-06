@@ -10,7 +10,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName NettyClient.java
  * @Description netty客户端

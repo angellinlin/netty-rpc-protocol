@@ -9,7 +9,7 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName RpcEncoder.java
  * @Description 编码处理器

@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName NettyRpcProvider.java
  * @Description TODO

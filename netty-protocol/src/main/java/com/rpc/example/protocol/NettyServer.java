@@ -8,7 +8,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName NettyServer.java
  * @Description 服务端

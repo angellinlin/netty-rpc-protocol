@@ -5,7 +5,7 @@ import com.rpc.example.constant.SerialType;
 import java.io.*;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName JavaSerializer.java
  * @Description TODO

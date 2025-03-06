@@ -1,7 +1,7 @@
 package com.rpc.example.serial;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName ISerializer.java
  * @Description 序列化接口

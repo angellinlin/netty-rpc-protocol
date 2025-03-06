@@ -3,7 +3,7 @@ package com.rpc.example;
 import java.lang.reflect.Proxy;
 
 /**
- * @author 陳樂
+ * @author 周贵龙
  * @version 1.0.0
  * @ClassName RpcClientProxy.java
  * @Description TODO
